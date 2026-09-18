@@ -207,7 +207,7 @@ Indicar que no hay feriados cercanos a la fecha de solicitud en Bolivia.
 
 @[PERSONA ENCARGADA] necesito por favor tu apoyo.
 
-[PERSONA SOLICITANTE] solicita [DÍA COMPLETO / MEDIO DÍA] el [FECHA]. Cuenta con [X] días disponibles.
+[PERSONA SOLICITANTE] solicita [DÍA COMPLETO / MEDIO DÍA] el [FECHA]. Cuenta con [X] días libres disponibles.
 
 [DESARROLLO DE LA FECHA]
 
